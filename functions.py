@@ -7,6 +7,7 @@ instead of move() on 3 lines just do
 f_move(3)
 
 paste this at the top of ur code hs editor
+(no ai was used to make the actual functions, just the github readme cause im lazy )
 
 """
 def f_move(num=1): # repeated move function
